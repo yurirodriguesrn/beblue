@@ -4,3 +4,5 @@ O projeto foi desenvolvido em 1 dia, Não tive muito tempo para finalizar, caso 
 
 
 o projeto foi feito com os serviços em C# e o front em angular JS
+
+link para o azure, apenas os serviços estão hospedados -> http://beblue.azurewebsites.net/
